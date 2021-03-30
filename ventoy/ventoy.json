@@ -113,32 +113,36 @@
 			"class": "windows"
 		},
 		{
-			"dir": "/ISOs/Linux",
+			"dir": "/x86/ISOs/Linux",
 			"class": "linux"
 		},
 		{
-			"dir": "/ISOs/Other",
+			"dir": "/x86/ISOs/Other",
 			"class": "driver"
 		},
 		{
-			"dir": "/ISOs/Hypervisor",
+			"dir": "/x86/ISOs/Hypervisor",
 			"class": "hypervisor"
 		},
 		{
-			"dir": "/ISOs/Windows",
+			"dir": "/x86/ISOs/Windows",
 			"class": "windows"
 		},
 		{
-			"dir": "/ISOs/Utilities/Clonezilla",
+			"dir": "/x86/ISOs/Utilities/Clonezilla",
 			"class": "clonezilla"
 		},
 		{
-			"dir": "/ISOs/Utilities",
+			"dir": "/x86/ISOs/Utilities",
 			"class": "utilities"
 		},
 		{
-			"dir": "/ISOs/RouterOS",
+			"dir": "/x86/ISOs/RouterOS",
 			"class": "router"
 		}
+		       		{
+			"dir": "/ARM/ISOs/Raspian",
+			"class": "raspbian"
+		},
 	]
 }
